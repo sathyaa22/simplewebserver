@@ -68,7 +68,8 @@ Testing the webserver.
 
 ## OUTPUT:
 
-![OP](https://github.com/user-attachments/assets/4323fe2a-79bb-4ca4-b79e-2ef326dc2b9b)
+![Screenshot 2024-10-07 150223](https://github.com/user-attachments/assets/5cf26284-65bd-4fde-b878-f5f2571e57d8)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
